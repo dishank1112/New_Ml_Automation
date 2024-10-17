@@ -1,0 +1,7 @@
+setup.py
+AutomatedModelTraining.egg-info/PKG-INFO
+AutomatedModelTraining.egg-info/SOURCES.txt
+AutomatedModelTraining.egg-info/dependency_links.txt
+AutomatedModelTraining.egg-info/requires.txt
+AutomatedModelTraining.egg-info/top_level.txt
+src/__init__.py

@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: AutomatedModelTraining
+Version: 0.0.1
+Author: Dishank Jain
+Author-email: jainbharti9382@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
+Requires-Dist: ipykernel
+Requires-Dist: catboost
+Requires-Dist: xgboost
+Requires-Dist: scikit-learn
+Requires-Dist: dill
+Requires-Dist: Flask
